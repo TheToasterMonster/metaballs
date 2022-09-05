@@ -12,5 +12,5 @@ $ ./build.sh
 ```
 
 ## Demo
-![](..Screenshots/MetaballsDemo.gif)
+![](Screenshots/MetaballsDemo.gif)
 
