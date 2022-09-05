@@ -3,7 +3,7 @@ Simple simulation of metaballs in C based on the description from [Wikipedia](ht
 
 ## Requirements
 - gcc-11
-- SDL2
+- SDL2 \
 (paths and gcc version can be edited in build script)
 
 ## Quick Start
